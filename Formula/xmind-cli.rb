@@ -1,7 +1,6 @@
 class XmindCli < Formula
   desc "Agent-native CLI for inspecting and editing XMind workbooks"
   homepage "https://github.com/ivan-94/xmind-cli"
-  version "0.1.0"
   license "MIT"
 
   on_macos do
